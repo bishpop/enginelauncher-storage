@@ -4,8 +4,8 @@
     "notes": "Engine Launcher v1.0 initial release."
   },
   "beatup": {
-    "version": "1.3.0",
-    "notes": "BeatUp Engine v1.3 with full hardware security and asset embedding."
+    "version": "1.3.2",
+    "notes": "BeatUp Engine v1.3.2 with complete 1000 FPS optimization across F1/F2/F3/Auditor modes, direct backbuffer rendering, cached minimap textures, cleaned UI layouts, and enhanced CSV report export."
   },
   "ballroom": {
     "version": "1.0.0",
