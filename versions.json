@@ -12,7 +12,7 @@
     "notes": "SanBallroom Studio v1.0 release."
   },
   "silencer": {
-    "version": "1.8.0",
+    "version": "2.0.0",
     "notes": "Silencer v1.8.0 Audio & BPM Prep Tool with exact madi offset calculation and trim silence."
   }
 }
