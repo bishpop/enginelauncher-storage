@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "1.1.1.0",
-    "notes": "Engine Launcher v1.1.1.0: Card description text clipping and wrap layout fix, Silencer v2.0 update support."
+    "version": "1.1.2.0",
+    "notes": "Engine Launcher v1.1.2: Ground-truth EXE version detection (fixes BeatUp Engine update check for v1.3.1 users), card clipping, and smooth scrolling."
   },
   "beatup": {
     "version": "1.3.2.1",
