@@ -1,14 +1,18 @@
 {
   "launcher": {
     "version": "1.1.0",
-    "notes": "Engine Launcher v1.0 initial release."
+    "notes": "Engine Launcher v1.1: Smooth mouse-wheel scrolling, Silencer integration, and improved update checks."
   },
   "beatup": {
-    "version": "1.3.2",
-    "notes": "BeatUp Engine v1.3.2 with complete 1000 FPS optimization across F1/F2/F3/Auditor modes, direct backbuffer rendering, cached minimap textures, cleaned UI layouts, and enhanced CSV report export."
+    "version": "1.3.2.1",
+    "notes": "BeatUp Engine v1.3.2.1 with 1000 FPS backbuffer rendering, AuxWindow present throttling, unified telemetry, and authentic Audition BeatUp logic."
   },
   "ballroom": {
     "version": "1.0.0",
     "notes": "SanBallroom Studio v1.0 release."
+  },
+  "silencer": {
+    "version": "1.8.0",
+    "notes": "Silencer v1.8.0 Audio & BPM Prep Tool with exact madi offset calculation and trim silence."
   }
 }
