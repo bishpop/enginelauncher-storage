@@ -16,7 +16,7 @@
     "notes": "Silencer v2.1 Audio & BPM Prep Tool: Native DirectX 11 / ImGui rendering, enhanced BPM detection kit, exact madi offset calculation and trim silence."
   },
   "onetwo": {
-    "version": "0.1.0.0",
-    "notes": "One Two Party Engine v0.1: Authentic rhythm engine featuring arrow sequences, listen-and-repeat mechanics, 4-field chart editor, and live Audition player."
+    "version": "0.2.1.0",
+    "notes": "One Two Party Engine v0.2.1: Modern UI redesign, 1:1 NPC/Player move sync (GO/YEAH), quiet menu SFX, fixed Perfect/Combo layout, below-player FPS overlay, and instant clean exit."
   }
 }
