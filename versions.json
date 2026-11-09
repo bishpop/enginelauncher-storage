@@ -17,6 +17,6 @@
   },
   "onetwo": {
     "version": "0.2.2.0",
-    "notes": "One Two Party Engine v0.2.1: Modern UI redesign, 1:1 NPC/Player move sync (GO/YEAH), quiet menu SFX, fixed Perfect/Combo layout, below-player FPS overlay, and instant clean exit."
+    "notes": "One Two Party Engine v0.2.2: 1:1 BeatUp Engine compatible SLK export with A26 watermark support, Beat/BeatTime interoperability, and full timing freedom."
   }
 }
