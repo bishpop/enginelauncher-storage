@@ -16,7 +16,7 @@
     "notes": "Silencer v2.1 Audio & BPM Prep Tool: Native DirectX 11 / ImGui rendering, enhanced BPM detection kit, exact madi offset calculation and trim silence."
   },
   "onetwo": {
-    "version": "0.2.1.0",
+    "version": "0.2.2.0",
     "notes": "One Two Party Engine v0.2.1: Modern UI redesign, 1:1 NPC/Player move sync (GO/YEAH), quiet menu SFX, fixed Perfect/Combo layout, below-player FPS overlay, and instant clean exit."
   }
 }
