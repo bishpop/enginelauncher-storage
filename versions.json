@@ -8,8 +8,8 @@
     "notes": "BeatUp Engine v1.3.3: Native Direct3D 11 backend & DXGI Flip Model (fixes 290 FPS cap on Windows 11/RTX), zero-allocation combo text caching, single-pass foreground border/shadow, and fixed diagnostics timing."
   },
   "ballroom": {
-    "version": "1.0.0",
-    "notes": "SanBallroom Studio v1.0 release."
+    "version": "1.1.0",
+    "notes": "Ballroom Converter v1.1: Side-by-side Excel & Pochita SLK spreadsheet inspector, in-place Hello partner exchange repositioning, and custom dance move editor."
   },
   "silencer": {
     "version": "2.1.0",
