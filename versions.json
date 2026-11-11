@@ -4,8 +4,8 @@
     "notes": "Engine Launcher v1.1.7: AuPiano Engine v0.1 integration, strict module whitelisting for BeatUp Engine and Silencer, multi-admin security, and uninstall management."
   },
   "beatup": {
-    "version": "1.3.3.0",
-    "notes": "BeatUp Engine v1.3.3: Native Direct3D 11 backend & DXGI Flip Model (fixes 290 FPS cap on Windows 11/RTX), zero-allocation combo text caching, single-pass foreground border/shadow, and fixed diagnostics timing."
+    "version": "1.3.4.0",
+    "notes": "BeatUp Engine v1.3.4: Responsive FPS positioning (below player, above scoreboard), native .bu chart import dialog in Play Your Charts, auto-tagged SLK export with calculated difficulty level [dateiname (BeatUp) (Lvl. X)], robust Silencer launcher resolution with dedicated working directory, and modern top-right SNAP & AUTO pill buttons with active accent border."
   },
   "ballroom": {
     "version": "1.1.0",
