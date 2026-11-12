@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "1.2.0.0",
-    "notes": "Engine Suite Launcher v1.2.0 (WPF): Obfuscated WPF edition, per-tool & launcher Check Update buttons, always-available Uninstall, 4 standard themes (Mocha, Nord, Latte, Cloud), and Custom Theme & Gradient Studio."
+    "version": "1.2.0.1",
+    "notes": "Engine Suite Launcher v1.2.0.1 (WPF): Default Frosty Glass 3D Glassmorphism UI (toggleable back to classic design with any theme), distinct Launch/Download/Update button colors, Frosty Glass standard preset, and Theme & Gradient Studio."
   },
   "beatup": {
     "version": "1.3.4.0",
