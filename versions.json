@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "1.2.0.8",
-    "notes": "Engine Launcher v1.2.0.8 (WPF): Icon-only topbar logo next to Hub & Versions tabs, clean 'Engine Launcher' window/taskbar title and header with version tag, full app icons across all modules, frosted Glassmorphism transparency, and styled sliders."
+    "version": "1.2.0.9",
+    "notes": "Engine Launcher v1.2.0.9 (WPF): Clickable Profile dropdown (Engine Settings, Theme Studio, Log Out), comprehensive Settings menu (Profile, Hub display toggle to hide tool descriptions, Theme & Glass quick controls, live Cloudflare & GitHub connection diagnostics), functional Light Mode conversion, Gradients off by default & background-only, plus cleaner Versions & Footer bars."
   },
   "beatup": {
     "version": "1.3.4.0",
