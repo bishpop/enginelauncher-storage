@@ -12,8 +12,8 @@
     "notes": "Ballroom Converter v1.1: Exact Audition Online SLK line count logic (pro Hello genau 1 Zeile weniger in Classic als in Couple), side-by-side Excel & Pochita SLK spreadsheet inspector, in-place Hello repositioning, and custom dance move editor."
   },
   "silencer": {
-    "version": "2.1.0",
-    "notes": "Silencer v2.1 Audio & BPM Prep Tool: Native DirectX 11 / ImGui rendering, enhanced BPM detection kit, exact madi offset calculation and trim silence."
+    "version": "2.2.0",
+    "notes": "Silencer v2.2 Audio & BPM Prep Tool: WPF Glassmorphism UI & Theme/Blur Studio, proprietary C++17 BPM/Offset & LUFS/MADI engine, automatic FLAC/MP3/M4A->WAV & WAV->OGG conversion with Silence Wav toggle, 1/4, 1/8, 1/16 & +-0.001s offset controls, styled Catppuccin analysis console, and in-app Explorer context menu manager."
   },
   "auconverter": {
     "version": "1.5",
