@@ -4,8 +4,8 @@
     "notes": "Engine Launcher v1.2.0.9 (WPF): Clickable Profile dropdown (Engine Settings, Theme Studio, Log Out), comprehensive Settings menu (Profile, Hub display toggle to hide tool descriptions, Theme & Glass quick controls, live Cloudflare & GitHub connection diagnostics), functional Light Mode conversion, Gradients off by default & background-only, plus cleaner Versions & Footer bars."
   },
   "beatup": {
-    "version": "1.3.4.0",
-    "notes": "BeatUp Engine v1.3.4: Responsive FPS positioning (below player, above scoreboard), native .bu chart import dialog in Play Your Charts, auto-tagged SLK export with calculated difficulty level [dateiname (BeatUp) (Lvl. X)], robust Silencer launcher resolution with dedicated working directory, and modern top-right SNAP & AUTO pill buttons with active accent border."
+    "version": "1.4.0.0",
+    "notes": "BeatUp Engine v1.4.0.0: Smart Beat-Aware Motif Randomizer + Call & Response (2/4 MADI), Difficulty/Jack/Hand-Bias Rules, Live Re-Roll (R) + Undo, Live Tap-to-Chart Recording (0/5/Ctrl/Space = Space), Persistent Pattern Library & Stamp Brush, Timing Shift/Quantize/Double-Half Scale, Minimap NPS Heatmap, Ghost Note & Stamp Preview, and live Chart Health Validator with Auto-Fix."
   },
   "ballroom": {
     "version": "1.1.0",
