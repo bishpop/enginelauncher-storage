@@ -26,5 +26,11 @@
   "aupiano": {
     "version": "0.1.0",
     "notes": "AuPiano Engine v0.1: Authentic Audition Piano Mode simulation (4K & 8K modes), exact SLK export, full 1000 FPS CleanUI interface, and hardware-accelerated audio/visual sync."
+  },
+  "guitar": {
+    "version": "0.1.0.0",
+    "enc": "GuitarEngine.enc",
+    "exe": "GuitarEngine.exe",
+    "notes": "Guitar Engine v0.1.0.0: Authentic Audition Online Guitar mode with 192-tick snap precision, 5-fret & 6-fret mechanics, pitch bends, flameout gauge, BeatUp Engine styled glass UI, and built-in chart & song browser."
   }
 }
