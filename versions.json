@@ -34,7 +34,7 @@
     "notes": "Guitar Engine v0.1.0.0: Authentic Audition Online Guitar mode with 192-tick snap precision, 5-fret & 6-fret mechanics, pitch bends, flameout gauge, BeatUp Engine styled glass UI, and built-in chart & song browser."
   },
   "shooting": {
-    "version": "0.2.0.0",
+    "version": "0.3.0.0",
     "title": "Shooting Star Studio",
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
