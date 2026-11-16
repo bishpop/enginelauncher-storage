@@ -1,11 +1,11 @@
 {
   "launcher": {
-    "version": "1.3.1.0",
-    "notes": "Engine Launcher v1.3 (WPF): Auto-sync version numbers in all tool card & list labels matching installed/remote versions, plus automatic IN DEV -> READY detection when modes (e.g. Guitar Engine / Shooting Engine) are published in versions.json with custom .enc package filename matching."
+    "version": "1.3.2.0",
+    "notes": "Engine Launcher v1.3.2 (WPF): Added Community & Fair Use Notice below the Suite Hub grid listing all supported Audition Online charting & content tools."
   },
   "beatup": {
-    "version": "1.4.0.0",
-    "notes": "BeatUp Engine v1.4.0.0: Smart Beat-Aware Motif Randomizer + Call & Response (2/4 MADI), Difficulty/Jack/Hand-Bias Rules, Live Re-Roll (R) + Undo, Live Tap-to-Chart Recording (0/5/Ctrl/Space = Space), Persistent Pattern Library & Stamp Brush, Timing Shift/Quantize/Double-Half Scale, Minimap NPS Heatmap, Ghost Note & Stamp Preview, and live Chart Health Validator with Auto-Fix."
+    "version": "1.4.1.0",
+    "notes": "BeatUp Engine v1.4.1: Play Your Chart now includes Delete .bu with inline confirmation (Del key), Open Folder button, and clickable F5 Refresh badge, plus a new Launcher-synced Profile Pill & Dropdown Menu in the main menu with circular avatar preview, HWID copy, and quick profile controls."
   },
   "ballroom": {
     "version": "1.1.0",
@@ -39,6 +39,6 @@
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
     "ready": true,
-    "notes": "Shooting Star Studio v0.2.0.0: Obfuscated & HWID/bue-auth secured standalone release with embedded fonts, sprites & hitsounds, Audition SLK 6K/4K/2K Export/Import, Autoplay (F4), BeatUp SLK -> Shooting Star Converter with constant travel speed, Tab Span Pattern Morphing, and Theme & Blur Studio."
+    "notes": "Shooting Star Studio v0.3.0.0: Free Spacebar X/Y placement (when simultaneous), configurable 1-8 MADI Start/End chain cadence (chart-wide & BeatUp converter), Random vs Continue chain start positioning, customizable Start indicator origin/angle/lead & arrow trail visuals (Curved/Dashed/Glow), and 6 new Pattern shapes including Heart, Diamond, Flower & Butterfly."
   }
 }
