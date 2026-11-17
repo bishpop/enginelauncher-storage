@@ -5,7 +5,7 @@
   },
   "beatup": {
     "version": "1.4.1.0",
-    "notes": "BeatUp Engine v1.4.1: Play Your Chart now includes Delete .bu with inline confirmation (Del key), Open Folder button, and clickable F5 Refresh badge, plus a new Launcher-synced Profile Pill & Dropdown Menu in the main menu with circular avatar preview, HWID copy, and quick profile controls."
+    "notes": "BeatUp Engine v1.4.1: Modern Custom Assets Default (carbon-black 3-part note bars, 1:1 arrow sizing, 3D UP orb, animated Supernovas & stars), one-time What's New dialog with visual asset preview chooser, subtle Note explosion slider, fixed End-Card Ranking (S+ >= 95% Perf & 0 Miss, -0.5% per Bad), Play Your Chart upgrades, and Launcher-synced Profile Menu."
   },
   "ballroom": {
     "version": "1.1.0",
@@ -39,6 +39,6 @@
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
     "ready": true,
-    "notes": "Shooting Star Studio v0.3.0.0: Free Spacebar X/Y placement (when simultaneous), configurable 1-8 MADI Start/End chain cadence (chart-wide & BeatUp converter), Random vs Continue chain start positioning, customizable Start indicator origin/angle/lead & arrow trail visuals (Curved/Dashed/Glow), and 6 new Pattern shapes including Heart, Diamond, Flower & Butterfly."
+    "notes": "Shooting Star Studio v0.4.0.0: Modern Dark-Glass Studio UI redesign (36px Topbar, Vector Transport & Gradient Waveform, Segmented Inspector Tabs, Live Scoreboard & Judgement Bars) and a customizable Top-Right Avatar Capsule with a 5-Panel Profile & Settings Hub (Profile Overview, Studio & Audio, Theme & Appearance, Suite Tools, Connections)."
   }
 }
