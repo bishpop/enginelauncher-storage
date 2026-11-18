@@ -4,8 +4,8 @@
     "notes": "Engine Launcher v1.3.2 (WPF): Added Community & Fair Use Notice below the Suite Hub grid listing all supported Audition Online charting & content tools."
   },
   "beatup": {
-    "version": "1.4.1.0",
-    "notes": "BeatUp Engine v1.4.1: Modern Custom Assets Default (carbon-black 3-part note bars, 1:1 arrow sizing, 3D UP orb, animated Supernovas & stars), one-time What's New dialog with visual asset preview chooser, subtle Note explosion slider, fixed End-Card Ranking (S+ >= 95% Perf & 0 Miss, -0.5% per Bad), Play Your Chart upgrades, and Launcher-synced Profile Menu."
+    "version": "1.4.2.0",
+    "notes": "BeatUp Engine v1.4.2: Modern Custom Assets Default (carbon-black 3-part note bars, 1:1 arrow sizing, 3D UP orb, animated Supernovas & stars), one-time What's New dialog with visual asset preview chooser, subtle Note explosion slider, fixed End-Card Ranking (S+ >= 95% Perf & 0 Miss, -0.5% per Bad), Play Your Chart upgrades, and Launcher-synced Profile Menu."
   },
   "ballroom": {
     "version": "1.1.0",
