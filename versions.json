@@ -4,8 +4,8 @@
     "notes": "Engine Launcher v1.3.2 (WPF): Added Community & Fair Use Notice below the Suite Hub grid listing all supported Audition Online charting & content tools."
   },
   "beatup": {
-    "version": "1.4.2.0",
-    "notes": "BeatUp Engine v1.4.2: Modern Custom Assets Default (carbon-black 3-part note bars, 1:1 arrow sizing, 3D UP orb, animated Supernovas & stars), one-time What's New dialog with visual asset preview chooser, subtle Note explosion slider, fixed End-Card Ranking (S+ >= 95% Perf & 0 Miss, -0.5% per Bad), Play Your Chart upgrades, and Launcher-synced Profile Menu."
+    "version": "1.5.0.0",
+    "notes": "BeatUp Engine v1.5.0: Galaxy Asset Pack (assets_galaxy/ with 1:1 original geometry), per-category Mix & Match asset selectors (Arrows, Bars & Spacebar, Judgments, Combo, Score / Point HUD), independent None/Supernova/Galaxy animations across all packs, main-menu Show What's New & 3-pack live chooser, Shift+Alt randomizer hotkeys, customizable Editor Context Menu, and full compile-time binary obfuscation."
   },
   "ballroom": {
     "version": "1.1.0",
@@ -34,11 +34,11 @@
     "notes": "Guitar Engine v0.1.0.0: Authentic Audition Online Guitar mode with 192-tick snap precision, 5-fret & 6-fret mechanics, pitch bends, flameout gauge, BeatUp Engine styled glass UI, and built-in chart & song browser."
   },
   "shooting": {
-    "version": "0.4.0.0",
+    "version": "0.5.0.0",
     "title": "Shooting Star Studio",
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
     "ready": true,
-    "notes": "Shooting Star Studio v0.4.0.0: Modern Dark-Glass Studio UI redesign (36px Topbar, Vector Transport & Gradient Waveform, Segmented Inspector Tabs, Live Scoreboard & Judgement Bars) and a customizable Top-Right Avatar Capsule with a 5-Panel Profile & Settings Hub (Profile Overview, Studio & Audio, Theme & Appearance, Suite Tools, Connections)."
+    "notes": "Shooting Star Studio v0.5.0.0: Independent Spacebar chains ('2'..'X' on S1/S2) separated from Arrow chains ('1'..'X' on L1/L2), redesigned 9-column grouped Sequencer with live chain brackets & Wrap MADI, Dual-Stream Stage Viewer (separate Arrow & Space paths + draggable Start/End anchors), curved 2D random motif placement, 5 new geometric patterns (Small Rect, Large Rect, Z, Y, X), 1:1 Web-Spec gameplay mechanics, DirectX 11 + 1000 FPS cap, and Split View Live Autoplay Preview."
   }
 }
