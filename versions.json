@@ -1,44 +1,44 @@
 {
   "launcher": {
-    "version": "1.3.2.0",
-    "notes": "Engine Launcher v1.3.2 (WPF): Added Community & Fair Use Notice below the Suite Hub grid listing all supported Audition Online charting & content tools."
+    "version": "1.3.3.0",
+    "notes": "Engine Launcher v1.3.3 (WPF): Overhauled registration & access-request workflow (instant empty account, per-tool access request via Discord Webhook approval, live auto-refresh 'Approved to ...' modal), global Single Sign-Out across all suite apps, hidden HWID UI, and hardened obfuscation."
   },
   "beatup": {
-    "version": "1.5.0.0",
-    "notes": "BeatUp Engine v1.5.0: Galaxy Asset Pack (assets_galaxy/ with 1:1 original geometry), per-category Mix & Match asset selectors (Arrows, Bars & Spacebar, Judgments, Combo, Score / Point HUD), independent None/Supernova/Galaxy animations across all packs, main-menu Show What's New & 3-pack live chooser, Shift+Alt randomizer hotkeys, customizable Editor Context Menu, and full compile-time binary obfuscation."
+    "version": "1.5.1.0",
+    "notes": "BeatUp Engine v1.5.1: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced compile-time obfuscation with opaque control-flow protection."
   },
   "ballroom": {
-    "version": "1.1.0",
-    "notes": "Ballroom Converter v1.1: Exact Audition Online SLK line count logic (pro Hello genau 1 Zeile weniger in Classic als in Couple), side-by-side Excel & Pochita SLK spreadsheet inspector, in-place Hello repositioning, and custom dance move editor."
+    "version": "1.1.1",
+    "notes": "Ballroom Converter v1.1.1: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced compile-time obfuscation."
   },
   "silencer": {
-    "version": "2.2.0",
-    "notes": "Silencer v2.2 Audio & BPM Prep Tool: WPF Glassmorphism UI & Theme/Blur Studio, proprietary C++17 BPM/Offset & LUFS/MADI engine, automatic FLAC/MP3/M4A->WAV & WAV->OGG conversion with Silence Wav toggle, 1/4, 1/8, 1/16 & +-0.001s offset controls, styled Catppuccin analysis console, and in-app Explorer context menu manager."
+    "version": "2.2.1",
+    "notes": "Silencer v2.2.1: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced obfuscation."
   },
   "auconverter": {
-    "version": "1.5.1",
-    "notes": "Au Converter v1.5: Obfuscated & HWID/Whitelist secured BeatUp (4K/8K), OTP 4, Block Beat, and AuPiano (.ssc -> .slk) converter with .SLK Revert & Theme Editor."
+    "version": "1.5.2",
+    "notes": "Au Converter v1.5.2: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced obfuscation."
   },
   "onetwo": {
-    "version": "0.2.2.0",
-    "notes": "One Two Party Engine v0.2.2: 1:1 BeatUp Engine compatible SLK export with A26 watermark support, Beat/BeatTime interoperability, and full timing freedom."
+    "version": "0.2.3.0",
+    "notes": "One Two Party Engine v0.2.3: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced compile-time obfuscation."
   },
   "aupiano": {
-    "version": "0.1.0",
-    "notes": "AuPiano Engine v0.1: Authentic Audition Piano Mode simulation (4K & 8K modes), exact SLK export, full 1000 FPS CleanUI interface, and hardware-accelerated audio/visual sync."
+    "version": "1.0.1",
+    "notes": "AuPiano Engine v1.0.1: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, enhanced compile-time obfuscation, and aligned PE/manifest versioning."
   },
   "guitar": {
-    "version": "0.1.0.0",
+    "version": "0.1.1.0",
     "enc": "GuitarEngine.enc",
     "exe": "GuitarEngine.exe",
-    "notes": "Guitar Engine v0.1.0.0: Authentic Audition Online Guitar mode with 192-tick snap precision, 5-fret & 6-fret mechanics, pitch bends, flameout gauge, BeatUp Engine styled glass UI, and built-in chart & song browser."
+    "notes": "Guitar Engine v0.1.1.0: Integrated unified suite SSO & live global Sign-Out gate, strict per-tool whitelist verification, hidden HWID UI, and compile-time obfuscation."
   },
   "shooting": {
-    "version": "0.5.0.0",
+    "version": "0.5.1.0",
     "title": "Shooting Star Studio",
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
     "ready": true,
-    "notes": "Shooting Star Studio v0.5.0.0: Independent Spacebar chains ('2'..'X' on S1/S2) separated from Arrow chains ('1'..'X' on L1/L2), redesigned 9-column grouped Sequencer with live chain brackets & Wrap MADI, Dual-Stream Stage Viewer (separate Arrow & Space paths + draggable Start/End anchors), curved 2D random motif placement, 5 new geometric patterns (Small Rect, Large Rect, Z, Y, X), 1:1 Web-Spec gameplay mechanics, DirectX 11 + 1000 FPS cap, and Split View Live Autoplay Preview."
+    "notes": "Shooting Star Studio v0.5.1.0: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced compile-time obfuscation."
   }
 }
