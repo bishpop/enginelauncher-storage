@@ -34,11 +34,11 @@
     "notes": "Guitar Engine v0.1.1.0: Integrated unified suite SSO & live global Sign-Out gate, strict per-tool whitelist verification, hidden HWID UI, and compile-time obfuscation."
   },
   "shooting": {
-    "version": "0.5.1.0",
+    "version": "0.6.0.0",
     "title": "Shooting Star Studio",
     "enc": "shootingstarstudio.enc",
     "exe": "ShootingStarStudio.exe",
     "ready": true,
-    "notes": "Shooting Star Studio v0.5.1.0: Unified suite SSO & live global Sign-Out watcher, strict per-tool whitelist verification, hidden HWID UI, and enhanced compile-time obfuscation."
+    "notes": "Shooting Star Studio v0.6.0.0: Rewrote sequencer into 12 strictly separated L1 / L2 / Space / FX columns with per-track coexisting Start/End markers and separate L1/L2/Space stage paths; added self-contained .star project files with embedded song audio, automatic folder-local Auto-Save, BeatUp-Engine keyboard shortcuts (Ctrl+Alt+A/E/B, Ctrl+S, Ctrl+Shift+S), and exit confirmation dialog."
   }
 }
